@@ -1,0 +1,7 @@
+"atomic"
+{
+	"base"		"nutscript"
+	"title"		"Atomic"
+	"author"	"Adaster"
+	"menusystem" "1"
+}
